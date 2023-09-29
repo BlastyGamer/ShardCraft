@@ -17,4 +17,4 @@ To join our **Minecraft Server**, You must join our Discord Server and follow th
 - Head to **SERVER INFO** section.
 - Open channel[「📚」server-info](https://discord.com/channels/1046797740073570394/1047812033820770394).
 - Click on `Minecraft Server` button.
-- Copy the [Server IP](ServerIP)
+- Copy the [Server IP](ServerIP.md)
