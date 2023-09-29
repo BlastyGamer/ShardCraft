@@ -9,3 +9,12 @@ Do join our [Discord Server](https://www.discord.io/ShardCraftOfficial) for more
 - [Reddit](https://reddit.com/r/Shard_Craft)
 - [Discord (via discord.io)](https://discord.io/ShardCraftOfficial)
 - [Website](https://goddadysites.com/ShardCraft)
+
+## Minecraft Server
+
+To join our **Minecraft Server**, You must join our Discord Server and follow these steps -
+
+- Head to **SERVER INFO** section.
+- Open channel[「📚」server-info](https://discord.com/channels/1046797740073570394/1047812033820770394).
+- Click on `Minecraft Server` button.
+- Copy the [Server IP](docs/ServerIP)
