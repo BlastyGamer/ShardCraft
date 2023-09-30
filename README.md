@@ -7,7 +7,7 @@ Do join our [Discord Server](https://www.discord.io/ShardCraftOfficial) for more
 ## Links 
 
 - [Reddit](https://reddit.com/r/Shard_Craft)
-- [Discord (via discord.io)](https://discord.io/ShardCraftOfficial)
+- [Discord (via dsc.gg)](https://dsc.gg/ShardCraft)
 - [Website](https://goddadysites.com/ShardCraft)
 
 ## Minecraft Server
